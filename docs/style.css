@@ -20,3 +20,8 @@ tbody th{background:white;border-top:0;font-weight:400}
 @media(max-width:700px){.definition p{font-size:14px}}
 #results table{white-space:normal;font-variant-numeric:tabular-nums}
 .experiment-details summary{width:auto}
+.coordinate-frame .axis-letter{font:600 15px Arial,sans-serif;paint-order:stroke;stroke:#fff;stroke-width:3px;stroke-linejoin:round}
+.coordinate-frame .frame-name{font:italic 19px 'Cambria Math',serif;fill:#172722;paint-order:stroke;stroke:white;stroke-width:4px;stroke-linejoin:round}
+.frame-conventions{margin:18px 0 0;font-size:14px;line-height:1.85}
+.label-a{left:75.94%;top:60.63%}.label-x{left:53.46%;top:33.60%}.label-b{left:36.96%;top:58.19%}
+@media(max-width:700px){.label-a{left:75.94%;top:60.63%}.label-x{left:53.46%;top:33.60%}.label-b{left:36.96%;top:58.19%}}

@@ -2,7 +2,7 @@
 
 **Jaeyoung Bae · Byeongjun Kim · Kwangki Kim — Inha University**
 
-[Project website](https://rwhec-grouped-deletion-bounds.qudwns73393149.chatgpt.site) · [Manuscript](docs/assets/paper.pdf) · [Real-data reproduction](real44data/README.md) · [Upstream code](https://github.com/bae1224/Group-Deletion-Bounds-TLS-for-Certifying-RWHEC-Calibration)
+[Project website](https://i-m-bedded.github.io/rwhec-tls-certification/) · [Manuscript](docs/assets/paper.pdf) · [Real-data reproduction](real44data/README.md) · [Upstream code](https://github.com/bae1224/Group-Deletion-Bounds-TLS-for-Certifying-RWHEC-Calibration)
 
 This research release accompanies the supplied manuscript. It contains the 44-observation real-data experiment, fixed calibration candidates, LS SDP implementation, singleton/pairwise deletion bounds, and cascade certification. It also includes a project website with an annotated experimental photograph and a 4× data-acquisition video.
 

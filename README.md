@@ -72,7 +72,7 @@ The original 64 observations were filtered using image quality criteria (19 repr
 
 Certification is a floating-point sufficient condition for the stated numerical objective, with the full-support and gap conditions specified in the manuscript. It does not measure absolute physical accuracy; an inconclusive result does not establish suboptimality. The 75 cutoffs are sensitivity settings on one dataset, not 75 independent experiments. Runtime varies by machine and should be reported separately from the released reference timings.
 
-The supplied PDF is a manuscript; no publication venue, DOI or acceptance status is asserted here. The hosted Sites URL may require owner sign-in until its audience is made public. The same website is included in `docs/` for public GitHub Pages hosting: select **Settings → Pages → Deploy from a branch → main /docs**.
+The supplied PDF is a manuscript; no publication venue, DOI or acceptance status is asserted here. The public project website is served by GitHub Pages from the main branch, /docs folder.
 
 ## Provenance and license
 

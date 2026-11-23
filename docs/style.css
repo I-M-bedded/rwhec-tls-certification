@@ -9,3 +9,14 @@ h3{font-size:18px;font-weight:650;line-height:1.6;margin:30px 0 12px;letter-spac
 /* B is placed earlier on its curve to keep all labels separate on narrow screens. */
 .label-b{left:36.768%;top:58.95%}
 @media(max-width:700px){.label-b{left:36.768%;top:58.95%}}
+/* Keep explanatory content in the main reading hierarchy. */
+.affiliation,.abstract,.definition p,dd,footer{color:var(--ink)}
+.coordinate-convention{font-size:16px;line-height:1.85;margin:22px 0 0}
+.experiment-details{margin:28px 0 0;border-top:1px solid var(--line);padding-top:18px;font-size:16px}
+.experiment-details summary{font-weight:600;margin-bottom:18px}
+.experiment-details p{margin-top:18px}
+tbody th{background:white;border-top:0;font-weight:400}
+.table-wrap{margin:22px 0 26px}
+@media(max-width:700px){.definition p{font-size:14px}}
+#results table{white-space:normal;font-variant-numeric:tabular-nums}
+.experiment-details summary{width:auto}
